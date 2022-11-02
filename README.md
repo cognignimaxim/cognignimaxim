@@ -2,7 +2,7 @@
 <br/>
 <br/>
  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cognignimaxim&hide_title=true&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cognignimaxim&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" align="center"/></div>
 <br/>  
 <br/>
 <br/>
