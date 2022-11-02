@@ -2,7 +2,7 @@
 <br/>
 <br/>
  
-<a href="https://github.com/cognignimaxim"><div align="center"><img src="https://github-readme-stats.vercel.app/api? username=cognignimaxim&hide_title=true&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center"/></div>
+<a href="https://github.com/cognignimaxim"><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cognignimaxim&hide_title=true&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center"/></div>
 </a>
 <br/>  
 <br/>
