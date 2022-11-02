@@ -1,4 +1,4 @@
-### <div align="center">I'm <a href="https://github.com/cognignimaxim" style="color:red;">Maxim Cognigni</a> <b>unicam</b> "ALIEN 👽" student,  studying remotely from MARS 🚀</div>
+### <div align="center">I'm <a href="https://github.com/cognignimaxim" style="background-color:red;">Maxim Cognigni</a> <b>unicam</b> "ALIEN 👽" student,  studying remotely from MARS 🚀</div>
 <br/>
 <br/>
  
