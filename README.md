@@ -15,6 +15,6 @@
 
 <a href="https://github.com/cognignimaxim">
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=cognignimaxim&&style=flat-square" align="center"/>
+ <img src="https://komarev.com/ghpvc/?username=cognignimaxim&style=flat&lable=Views" align="center"/>
 </div>
 </a>
